@@ -74,3 +74,6 @@ print(f"Pérdida en Test (Loss): {loss_test:.4f}")
 print(f"Precisión en Test (Accuracy): {accuracy_test * 100:.2f}%")
 print(f"==========================================")
 
+
+
+
